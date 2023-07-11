@@ -56,12 +56,9 @@ To use this project, follow these steps:
 
 [Zabi Ulla Ismail](https://github.com/zabi-32)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for both commercial and non-commercial purposes.
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [your-email@example.com].
+For any questions or inquiries, please contact [Zabi Ismail, Faiziab Khan, Souvik Ghosh] at [].
 
 Thank you for your interest in the Performance Prediction of Top Formula 1 Players Using Sentiment Analysis project!
