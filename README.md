@@ -1,20 +1,20 @@
-# Performance Prediction of Top Formula 1 Players Using Sentiment Analysis Project
+# Performance Prediction of Top Formula 1 Drivers Using Sentiment Analysis Project
 
-Welcome to the Performance Prediction of Top Formula 1 Players Using Sentiment Analysis project repository. This project aims to predict the performance of Formula 1 players by analyzing sentiment from textual data, such as news articles, social media posts, and interviews. By leveraging sentiment analysis techniques, we can gain insights into public opinions and sentiments surrounding the players, which can be used as a predictive factor for their performance.
+Welcome to the Performance Prediction of Top Formula 1 Drivers Using Sentiment Analysis project repository. This project aims to predict the performance of Formula 1 drivers by analyzing sentiment from textual data, such as news articles, social media posts, and interviews. By leveraging sentiment analysis techniques, we can gain insights into public opinions and sentiments surrounding the drivers, which can be used as a predictive factor for their performance.
 
 ## Project Overview
 
-The project focuses on using sentiment analysis to predict the performance of top Formula 1 players. The main steps of the project include:
+The project focuses on using sentiment analysis to predict the performance of top Formula 1 drivers. The main steps of the project include:
 
-1. Data Collection: Gather data from various sources, such as news articles, social media platforms (e.g., Twitter), interviews, and online forums. The data should include relevant information about the Formula 1 players and their performance.
+1. Data Collection: Gather data from various sources, such as news articles, social media platforms (e.g., Twitter), interviews, and online forums. The data should include relevant information about the Formula 1 drivers and their performance.
 
 2. Sentiment Analysis: Apply sentiment analysis techniques to analyze the collected textual data. This involves using natural language processing (NLP) methods to extract sentiments, such as positive, negative, or neutral, from the text. Common techniques for sentiment analysis include lexicon-based approaches, machine learning models, or deep learning models.
 
 3. Feature Extraction: Extract relevant features from the sentiment analysis results and combine them with other player-related features, such as historical performance, team dynamics, or track records. These features will be used to train predictive models.
 
-4. Model Training and Evaluation: Train machine learning or statistical models to predict the performance of Formula 1 players based on the extracted features. Evaluate the performance of the models using appropriate evaluation metrics, such as accuracy, precision, recall, or F1-score.
+4. Model Training and Evaluation: Train machine learning or statistical models to predict the performance of Formula 1 drivers based on the extracted features. Evaluate the performance of the models using appropriate evaluation metrics, such as accuracy, precision, recall, or F1-score.
 
-5. Performance Prediction: Use the trained model to predict the performance of Formula 1 players based on the sentiment analysis of the textual data. Analyze the predictions and assess the effectiveness of sentiment analysis as a predictive factor.
+5. Performance Prediction: Use the trained model to predict the performance of Formula 1 drivers based on the sentiment analysis of the textual data. Analyze the predictions and assess the effectiveness of sentiment analysis as a predictive factor.
 
 6. Visualization and Reporting: Visualize the predictions, model performance, and any other relevant insights using charts, graphs, or interactive dashboards. Provide a comprehensive report summarizing the project methodology, results, and conclusions.
 
@@ -61,4 +61,4 @@ To use this project, follow these steps:
 
 For any questions or inquiries, please contact [Zabi Ismail, Faiziab Khan, Souvik Ghosh] at [].
 
-Thank you for your interest in the Performance Prediction of Top Formula 1 Players Using Sentiment Analysis project!
+Thank you for your interest in the Performance Prediction of Top Formula 1 drivers Using Sentiment Analysis project!
